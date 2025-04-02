@@ -25,7 +25,7 @@ I am a passionate **Full Stack Developer** with a strong foundation in technolog
 
 ## 🛠 **Tech Stack**
 
-<div align="center">
+<div align="left">
 
 ### 🚀 **Frontend**
 <p>
