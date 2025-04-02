@@ -15,10 +15,10 @@ I am a passionate **Full Stack Developer** with a strong foundation in technolog
 ---
 
 ### 🛠 **Tech Stack**
-🔹 **Frontend:** HTML, CSS, JavaScript, React, Vue.js  
-🔹 **Backend:** Node.js, Python, Django, FastAPI  
-🔹 **Databases:** PostgreSQL, MongoDB, Firebase  
-🔹 **Tools & Others:** Git, Docker, AWS, CI/CD  
+🔹 **Frontend:** HTML, CSS, JavaScript 
+🔹 **Backend:** Python, FastAPI  
+🔹 **Databases:** MySQL 
+🔹 **Tools & Others:** Git, , **Flet**  
 
 ---
 
