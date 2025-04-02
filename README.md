@@ -10,17 +10,16 @@
 
 ## 💻 **Full Stack Developer | 🌍 International Business Graduate**  
 
-🚀 I am a **Full Stack Developer** with a passion for building scalable and efficient applications. With a background in **International Business Administration**, I bring a unique approach to problem-solving, blending **technology and business strategies**.  
-
-🎓 Currently, I'm expanding my expertise as a student at **Infinit School**, mastering the latest technologies to create **innovative digital solutions**.
+I am a passionate **Full Stack Developer** with a strong foundation in technology and business. My background in **International Business Administration** gives me a unique perspective on developing efficient and scalable solutions. Currently, I am expanding my expertise as a student at **Infinit School**, sharpening my skills in cutting-edge technologies.
 
 ---
 
 ## 🔹 **About Me**
-✅ **Strong problem-solving mindset & analytical thinking**  
-✅ Enthusiastic about **AI, automation, and UI/UX development**  
-✅ Passionate about **creating high-performance applications**  
-✅ Constantly **exploring new technologies** and best practices  
+- 💼 Background: **International Business Administration**  
+- 🚀 Passionate about creating **scalable, high-performance applications**  
+- 🎓 **Student at Infinit School** – constantly learning and evolving  
+- 🌍 Enthusiastic about technology, innovation, and global business  
+ 
 
 ---
 
@@ -52,5 +51,5 @@
 
 ---
 
-💡 _"Technology is best when it brings people together."_ – Let's build something **amazing** together! 🚀
+💡 Feel free to reach out! I'm always open to new projects, collaborations, and tech discussions. Let's build something amazing together! 🚀  
 
