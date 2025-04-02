@@ -18,7 +18,8 @@ I am a passionate **Full Stack Developer** with a strong foundation in technolog
 - 💼 Background: **International Business Administration**  
 - 🚀 Passionate about creating **scalable, high-performance applications**  
 - 🎓 **Student at Infinity School** – constantly learning and evolving  
-- 🌍 Enthusiastic about technology, innovation, and global business  
+- 🌍 Enthusiastic about technology, innovation, and global business
+- 🌐 Focused on **Web Development**, building modern and responsive applications   
  
 
 ---
