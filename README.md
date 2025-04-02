@@ -18,7 +18,7 @@ I am a passionate **Full Stack Developer** with a strong foundation in technolog
 🔹 **Frontend:** HTML, CSS, JavaScript 
 🔹 **Backend:** Python, FastAPI  
 🔹 **Databases:** MySQL 
-🔹 **Tools & Others:** Git, , **Flet**  
+🔹 **Tools & Others:** Git, Flet  
 
 ---
 
