@@ -55,6 +55,10 @@ I am a passionate **Full Stack Developer** with a strong foundation in technolog
 
 </div>
 
+### 📫 **Let's Connect!**
+📧 Email: roberto_siquara@hotmail.com  
+💼 LinkedIn: [linkedin.com/in/robertosiquara](https://linkedin.com/in/robertosiquara)  
+🚀 GitHub: [github.com/robertosiquara](https://github.com/robertosiquara)  
 
 ---
 
